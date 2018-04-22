@@ -1,0 +1,9 @@
+[http]
+[user]
+	name = impressarix
+	email = tdwiid@yandex.com
+[core]
+	autocrlf = input
+	editor = atom -w
+[alias]
+	exit = checkout

@@ -1,0 +1,4 @@
+<h1>From template, says: Hello world!</h1>
+<p>Also, 1 + 1 = <%= 1 + 1 %></p>
+ <h1>Hello <%= String.capitalize @name %>!</h1>
+
